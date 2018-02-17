@@ -1,0 +1,5 @@
+D:\day3\Operator\Operator\bin\Debug\Operator.exe
+D:\day3\Operator\Operator\bin\Debug\Operator.pdb
+D:\day3\Operator\Operator\obj\x86\Debug\Operator.exe
+D:\day3\Operator\Operator\obj\x86\Debug\Operator.pdb
+D:\day3\Operator\Operator\obj\x86\Debug\Operator.csprojResolveAssemblyReference.cache
